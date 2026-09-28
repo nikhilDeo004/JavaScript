@@ -1,0 +1,25 @@
+alert('Good Morning!');
+undefined
+alert('Nikhil Deo')
+undefined
+10+5
+15
+20-5
+15
+2+2-5
+-1
+document.innerHTML='Good Morning';
+'Good Morning'
+document.body.innerHTML=Good Morning;
+VM2382:1 Uncaught SyntaxError: Unexpected identifier 'Morning' (at VM2382:1:30)
+document.body.innerHTML='Good Morning';
+'Good Morning'
+document.body.innerHTML='Nikhil Deo';
+'Nikhil Deo'
+10 + 8 + 20
+38
+100-20-50+200
+230
+document.body.innerHTML='';
+''
+document.body.innerHTML='';

@@ -1,0 +1,28 @@
+'hello'
+'hello'
+'euu'
+'euu'
+'some'+'thing'
+'something'
+'some'+'more'+'text'
+'somemoretext'
+typeof 5
+'number'
+typeof ababab
+'undefined'
+typeof "
+VM4886:1 Uncaught SyntaxError: Invalid or unexpected token (at VM4886:1:8)
+typeof '+'
+'string'
+proxy.js:1 [Violation] 'setInterval' handler took 76ms
+js?client-id=test&currency=USD&disable-funding=venmo,paylater:3 [Violation] 'message' handler took 280ms
+'hello'+9
+'hello9'
+'$'+(20.55+7.99)
+'$28.54'
+'$'+(2095+799)/100
+'$28.94'
+"I\'m learning Js"
+"I'm learning Js"
+alert("some\ntext")
+undefined
